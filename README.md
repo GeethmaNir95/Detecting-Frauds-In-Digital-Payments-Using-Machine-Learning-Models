@@ -1,5 +1,5 @@
-# Detecting Frauds In Digital Payments Using Machine Learning Models
- Overview
+## Detecting Frauds In Digital Payments Using Machine Learning Models
+ Overview<br>
 Thisprojectaims tofindanoptimal algorithm
  by evaluating both supervised and
  unsupervisedmachinelearningalgorithms.
